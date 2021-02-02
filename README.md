@@ -1,2 +1,2 @@
 # mxndtaylor.github.io
-Account website
+personal static website built using jekyll for github pages.
